@@ -1,0 +1,626 @@
+item,letter,option,p
+sc_nstd_agree,A,<2.5,0.000535
+sc_nstd_agree,B,2.5-3.0,0.010841
+sc_nstd_agree,C,3.0-3.5,0.748185
+sc_nstd_agree,D,3.5-4.0,0.237642
+sc_nstd_agree,E,4.0-4.5,0.001694
+sc_nstd_agree,F,4.5-5.0,0.00034
+sc_nstd_agree,G,Not answered,0.000764
+sc_nstd_artistic,A,<2.5,0.000686
+sc_nstd_artistic,B,2.5-3.0,0.01277
+sc_nstd_artistic,C,3.0-3.5,0.418876
+sc_nstd_artistic,D,3.5-4.0,0.560103
+sc_nstd_artistic,E,4.0-4.5,0.004497
+sc_nstd_artistic,F,4.5-5.0,0.000952
+sc_nstd_artistic,G,Not answered,0.002117
+sc_nstd_bret_prop,A,<0.25,0.000808
+sc_nstd_bret_prop,B,0.25-0.40,0.006626
+sc_nstd_bret_prop,C,0.40-0.50,0.006548
+sc_nstd_bret_prop,D,0.50-0.65,0.976313
+sc_nstd_bret_prop,E,0.65+,0.007947
+sc_nstd_bret_prop,F,Not answered,0.001757
+sc_nstd_consc,A,<2.5,0.000466
+sc_nstd_consc,B,2.5-3.0,0.009435
+sc_nstd_consc,C,3.0-3.5,0.231939
+sc_nstd_consc,D,3.5-4.0,0.755865
+sc_nstd_consc,E,4.0-4.5,0.001481
+sc_nstd_consc,F,4.5-5.0,0.000303
+sc_nstd_consc,G,Not answered,0.00051
+sc_nstd_convent,A,<2.5,0.00108
+sc_nstd_convent,B,2.5-3.0,0.015935
+sc_nstd_convent,C,3.0-3.5,0.37531
+sc_nstd_convent,D,3.5-4.0,0.598235
+sc_nstd_convent,E,4.0-4.5,0.004855
+sc_nstd_convent,F,4.5-5.0,0.001204
+sc_nstd_convent,G,Not answered,0.003381
+sc_nstd_corsi_1,A,0,0.006235
+sc_nstd_corsi_1,B,2,0.034362
+sc_nstd_corsi_1,C,3,0.05244
+sc_nstd_corsi_1,D,4,0.246035
+sc_nstd_corsi_1,E,5,0.368281
+sc_nstd_corsi_1,F,6,0.133423
+sc_nstd_corsi_1,G,7,0.146875
+sc_nstd_corsi_1,H,Not answered,0.01235
+sc_nstd_cpt_corrected,A,<=25,0.014294
+sc_nstd_cpt_corrected,B,26-50,0.35196
+sc_nstd_cpt_corrected,C,51-75,0.177645
+sc_nstd_cpt_corrected,D,76-90,0.411194
+sc_nstd_cpt_corrected,E,>90,0.038494
+sc_nstd_cpt_corrected,F,Not answered,0.006414
+sc_nstd_ds_b_2,A,0,0.004446
+sc_nstd_ds_b_2,B,2,0.011121
+sc_nstd_ds_b_2,C,3,0.01144
+sc_nstd_ds_b_2,D,4,0.026362
+sc_nstd_ds_b_2,E,5,0.065163
+sc_nstd_ds_b_2,F,6,0.025382
+sc_nstd_ds_b_2,G,7,0.182028
+sc_nstd_ds_b_2,H,8,0.05689
+sc_nstd_ds_b_2,I,9,0.043358
+sc_nstd_ds_b_2,J,10,0.470944
+sc_nstd_ds_b_2,K,11,0.056105
+sc_nstd_ds_b_2,L,12,0.016136
+sc_nstd_ds_b_2,M,13,0.018645
+sc_nstd_ds_b_2,N,14,0.004675
+sc_nstd_ds_b_2,O,Not answered,0.007304
+sc_nstd_ds_f_2,A,0,0.004282
+sc_nstd_ds_f_2,B,2,0.011198
+sc_nstd_ds_f_2,C,3,0.011863
+sc_nstd_ds_f_2,D,4,0.026403
+sc_nstd_ds_f_2,E,5,0.053669
+sc_nstd_ds_f_2,F,6,0.022255
+sc_nstd_ds_f_2,G,7,0.21121
+sc_nstd_ds_f_2,H,8,0.058376
+sc_nstd_ds_f_2,I,9,0.044861
+sc_nstd_ds_f_2,J,10,0.458007
+sc_nstd_ds_f_2,K,11,0.05442
+sc_nstd_ds_f_2,L,12,0.014415
+sc_nstd_ds_f_2,M,13,0.018251
+sc_nstd_ds_f_2,N,14,0.004659
+sc_nstd_ds_f_2,O,Not answered,0.00613
+sc_nstd_enterp,A,<2.5,0.000357
+sc_nstd_enterp,B,2.5-3.0,0.005953
+sc_nstd_enterp,C,3.0-3.5,0.091457
+sc_nstd_enterp,D,3.5-4.0,0.895706
+sc_nstd_enterp,E,4.0-4.5,0.003692
+sc_nstd_enterp,F,4.5-5.0,0.000927
+sc_nstd_enterp,G,Not answered,0.001908
+sc_nstd_extra,A,<2.5,0.000888
+sc_nstd_extra,B,2.5-3.0,0.012678
+sc_nstd_extra,C,3.0-3.5,0.261414
+sc_nstd_extra,D,3.5-4.0,0.721091
+sc_nstd_extra,E,4.0-4.5,0.002415
+sc_nstd_extra,F,4.5-5.0,0.000515
+sc_nstd_extra,G,Not answered,0.000999
+sc_nstd_gm,A,<2.5,0.000423
+sc_nstd_gm,B,2.5-3.0,0.006692
+sc_nstd_gm,C,3.0-3.5,0.605108
+sc_nstd_gm,D,3.5-4.0,0.38261
+sc_nstd_gm,E,4.0-4.5,0.003077
+sc_nstd_gm,F,4.5-5.0,0.000854
+sc_nstd_gm,G,Not answered,0.001236
+sc_nstd_hmt_1,A,<=0.2,0.004199
+sc_nstd_hmt_1,B,0.3,0.00662
+sc_nstd_hmt_1,C,0.4,0.017403
+sc_nstd_hmt_1,D,0.5,0.26324
+sc_nstd_hmt_1,E,0.6,0.044848
+sc_nstd_hmt_1,F,0.7,0.281476
+sc_nstd_hmt_1,G,0.8+,0.370257
+sc_nstd_hmt_1,H,Not answered,0.011958
+sc_nstd_invest,A,<2.5,0.000748
+sc_nstd_invest,B,2.5-3.0,0.013534
+sc_nstd_invest,C,3.0-3.5,0.328916
+sc_nstd_invest,D,3.5-4.0,0.649865
+sc_nstd_invest,E,4.0-4.5,0.004312
+sc_nstd_invest,F,4.5-5.0,0.000907
+sc_nstd_invest,G,Not answered,0.001717
+sc_nstd_mtpt_err_per_s,A,<0.10,0.08434
+sc_nstd_mtpt_err_per_s,B,0.10-0.20,0.868844
+sc_nstd_mtpt_err_per_s,C,0.20-0.30,0.034513
+sc_nstd_mtpt_err_per_s,D,0.30+,0.010595
+sc_nstd_mtpt_err_per_s,E,Not answered,0.001708
+sc_nstd_mtpt_quit_1,A,0,0.991665
+sc_nstd_mtpt_quit_1,B,1,0.008183
+sc_nstd_mtpt_quit_1,C,Not answered,0.000152
+sc_nstd_open,A,<2.5,0.000888
+sc_nstd_open,B,2.5-3.0,0.01393
+sc_nstd_open,C,3.0-3.5,0.286555
+sc_nstd_open,D,3.5-4.0,0.691809
+sc_nstd_open,E,4.0-4.5,0.00429
+sc_nstd_open,F,4.5-5.0,0.000913
+sc_nstd_open,G,Not answered,0.001615
+sc_nstd_pp,A,<2.5,0.000648
+sc_nstd_pp,B,2.5-3.0,0.008733
+sc_nstd_pp,C,3.0-3.5,0.123695
+sc_nstd_pp,D,3.5-4.0,0.855266
+sc_nstd_pp,E,4.0-4.5,0.006834
+sc_nstd_pp,F,4.5-5.0,0.00241
+sc_nstd_pp,G,Not answered,0.002414
+sc_nstd_realistic,A,<2.5,0.000435
+sc_nstd_realistic,B,2.5-3.0,0.00751
+sc_nstd_realistic,C,3.0-3.5,0.1033
+sc_nstd_realistic,D,3.5-4.0,0.880717
+sc_nstd_realistic,E,4.0-4.5,0.005115
+sc_nstd_realistic,F,4.5-5.0,0.001042
+sc_nstd_realistic,G,Not answered,0.001881
+sc_nstd_s_aware,A,<2.5,0.000531
+sc_nstd_s_aware,B,2.5-3.0,0.008535
+sc_nstd_s_aware,C,3.0-3.5,0.327448
+sc_nstd_s_aware,D,3.5-4.0,0.655648
+sc_nstd_s_aware,E,4.0-4.5,0.00502
+sc_nstd_s_aware,F,4.5-5.0,0.001023
+sc_nstd_s_aware,G,Not answered,0.001795
+sc_nstd_s_manage,A,<2.5,0.00047
+sc_nstd_s_manage,B,2.5-3.0,0.008148
+sc_nstd_s_manage,C,3.0-3.5,0.39341
+sc_nstd_s_manage,D,3.5-4.0,0.591071
+sc_nstd_s_manage,E,4.0-4.5,0.004487
+sc_nstd_s_manage,F,4.5-5.0,0.000899
+sc_nstd_s_manage,G,Not answered,0.001514
+sc_nstd_soc_aware,A,<2.5,0.000442
+sc_nstd_soc_aware,B,2.5-3.0,0.008296
+sc_nstd_soc_aware,C,3.0-3.5,0.364151
+sc_nstd_soc_aware,D,3.5-4.0,0.621465
+sc_nstd_soc_aware,E,4.0-4.5,0.0037
+sc_nstd_soc_aware,F,4.5-5.0,0.000726
+sc_nstd_soc_aware,G,Not answered,0.00122
+sc_nstd_social,A,<2.5,0.000679
+sc_nstd_social,B,2.5-3.0,0.011876
+sc_nstd_social,C,3.0-3.5,0.440772
+sc_nstd_social,D,3.5-4.0,0.539572
+sc_nstd_social,E,4.0-4.5,0.00417
+sc_nstd_social,F,4.5-5.0,0.000942
+sc_nstd_social,G,Not answered,0.001989
+sc_nstd_stability,A,<2.5,0.002382
+sc_nstd_stability,B,2.5-3.0,0.044421
+sc_nstd_stability,C,3.0-3.5,0.689732
+sc_nstd_stability,D,3.5-4.0,0.259042
+sc_nstd_stability,E,4.0-4.5,0.00272
+sc_nstd_stability,F,4.5-5.0,0.000629
+sc_nstd_stability,G,Not answered,0.001074
+sc_nstd_tmt_err_a,A,0,0.040179
+sc_nstd_tmt_err_a,B,1,0.32795
+sc_nstd_tmt_err_a,C,2,0.627527
+sc_nstd_tmt_err_a,D,3+,0.003923
+sc_nstd_tmt_err_a,E,Not answered,0.000421
+sc_nstd_tmt_err_b,A,0,0.009006
+sc_nstd_tmt_err_b,B,1,0.107124
+sc_nstd_tmt_err_b,C,2,0.880521
+sc_nstd_tmt_err_b,D,3+,0.003009
+sc_nstd_tmt_err_b,E,Not answered,0.000339
+sc_nstd_tmt_log_a,A,<3.9,0.050711
+sc_nstd_tmt_log_a,B,3.9-4.3,0.857566
+sc_nstd_tmt_log_a,C,4.3-4.6,0.051886
+sc_nstd_tmt_log_a,D,4.6+,0.037286
+sc_nstd_tmt_log_a,E,Not answered,0.002552
+sc_nstd_tmt_log_b,A,<4.0,0.014665
+sc_nstd_tmt_log_b,B,4.0-4.4,0.129498
+sc_nstd_tmt_log_b,C,4.4-4.8,0.824755
+sc_nstd_tmt_log_b,D,4.8+,0.02915
+sc_nstd_tmt_log_b,E,Not answered,0.001931
+tr_applications_next_1m,A,0,0.000524
+tr_applications_next_1m,B,1,0.004198
+tr_applications_next_1m,C,2,0.002808
+tr_applications_next_1m,D,3,0.007282
+tr_applications_next_1m,E,4,0.003885
+tr_applications_next_1m,F,5,0.003863
+tr_applications_next_1m,G,6-10,0.023491
+tr_applications_next_1m,H,11-15,0.031002
+tr_applications_next_1m,I,16-20,0.037123
+tr_applications_next_1m,J,21-30,0.453846
+tr_applications_next_1m,K,31-40,0.282358
+tr_applications_next_1m,L,more than 40,0.121883
+tr_applications_next_1m,M,Not answered,0.027737
+tr_attach_skills_report_full,A,No,0.273099
+tr_attach_skills_report_full,B,Yes,0.725924
+tr_attach_skills_report_full,C,Not answered,0.000977
+tr_did_full,A,Yes,0.990664
+tr_did_full,B,No,0.004093
+tr_did_full,C,I don’t remember,0.005023
+tr_did_full,D,Not answered,0.00022
+tr_employment_status,A,Searching for a job,0.732645
+tr_employment_status,B,Not actively searching for a job,0.235165
+tr_employment_status,C,Full-time employed,0.025541
+tr_employment_status,D,Part-time employed,0.002707
+tr_employment_status,E,Freelancing / Gig Work,0.000725
+tr_employment_status,F,Running own business / Self-employed,0.000691
+tr_employment_status,G,Internship / Apprenticeship,0.000408
+tr_employment_status,H,Skills training/ Certification course,0.00061
+tr_employment_status,I,Studying,0.000824
+tr_employment_status,J,Not answered,0.000685
+tr_feedback_full,A,No,9.4e-05
+tr_feedback_full,B,Yes,0.999674
+tr_feedback_full,C,Not answered,0.000233
+tr_feedback_increase_job,A,"Yes, I now spend more time job searching since I registered for the YES program",0.003008
+tr_feedback_increase_job,B,No change. The time I spend job searching hasn’t changed since I registered,0.978321
+tr_feedback_increase_job,C,I spend less time job searching since I registered for the YES program.,0.012956
+tr_feedback_increase_job,D,I job searched for a little while and now have a job,0.003268
+tr_feedback_increase_job,E,I was already employed when I registered for the YES program,0.000476
+tr_feedback_increase_job,F,Not answered,0.001971
+tr_feel_work,A,2.125,0.004693
+tr_feel_work,B,2.75,0.059956
+tr_feel_work,C,2.875,0.155782
+tr_feel_work,D,3.0,0.062729
+tr_feel_work,E,3.125,0.016988
+tr_feel_work,F,3.25,0.005201
+tr_feel_work,G,3.5,0.013622
+tr_feel_work,H,3.625,0.015097
+tr_feel_work,I,3.75,0.073276
+tr_feel_work,J,3.875,0.535865
+tr_feel_work,K,4.0,0.051217
+tr_feel_work,L,Not answered,0.005575
+tr_help_get_job_full,A,Yes,0.991213
+tr_help_get_job_full,B,No,0.007665
+tr_help_get_job_full,C,Not sure,0.000825
+tr_help_get_job_full,D,Not answered,0.000296
+tr_help_job_search_full,A,Yes,0.998284
+tr_help_job_search_full,B,No,0.001282
+tr_help_job_search_full,C,Not sure,0.000339
+tr_help_job_search_full,D,Not answered,9.5e-05
+tr_job_full,A,No,0.00491
+tr_job_full,B,Yes,0.994391
+tr_job_full,C,Not answered,0.000699
+tr_job_number,A,0,0.00785
+tr_job_number,B,1,0.990232
+tr_job_number,C,2,0.001551
+tr_job_number,D,4,0.000366
+tr_job_offers,A,0,0.094755
+tr_job_offers,B,1,0.696145
+tr_job_offers,C,2,0.094492
+tr_job_offers,D,3+,0.111543
+tr_job_offers,E,Not answered,0.003064
+tr_low_pay_after,A,1-1999,0.004116
+tr_low_pay_after,B,2000-2999,0.00602
+tr_low_pay_after,C,3000-3999,0.007248
+tr_low_pay_after,D,4000-4999,0.011375
+tr_low_pay_after,E,5000-6999,0.032833
+tr_low_pay_after,F,7000-9999,0.053083
+tr_low_pay_after,G,10000-14999,0.236359
+tr_low_pay_after,H,15000-24999,0.514531
+tr_low_pay_after,I,Not answered,0.134434
+tr_recommend_full,A,Not likely,0.000599
+tr_recommend_full,B,Not sure,0.000556
+tr_recommend_full,C,Likely,0.998477
+tr_recommend_full,D,Not answered,0.000368
+tr_report_help_interview_full,A,Yes,0.994489
+tr_report_help_interview_full,B,No,0.00471
+tr_report_help_interview_full,C,Not sure,0.000586
+tr_report_help_interview_full,D,Not answered,0.000215
+tr_riasec_target_sector,A,Realistic,0.035303
+tr_riasec_target_sector,B,Investigative,0.687253
+tr_riasec_target_sector,C,Social,0.118852
+tr_riasec_target_sector,D,Enterprising,0.088846
+tr_riasec_target_sector,E,Conventional,0.058134
+tr_riasec_target_sector,F,Not answered,0.011612
+tr_search_hours_after,A,0,0.001229
+tr_search_hours_after,B,1,0.004092
+tr_search_hours_after,C,2,0.001783
+tr_search_hours_after,D,3,0.004798
+tr_search_hours_after,E,4,0.00458
+tr_search_hours_after,F,5,0.004989
+tr_search_hours_after,G,6-10,0.0499
+tr_search_hours_after,H,11-15,0.03013
+tr_search_hours_after,I,16-20,0.018941
+tr_search_hours_after,J,21-30,0.257994
+tr_search_hours_after,K,31-40,0.105361
+tr_search_hours_after,L,more than 40,0.478395
+tr_search_hours_after,M,Not answered,0.037808
+tr_self_efficacy,A,<3.4,0.080262
+tr_self_efficacy,B,3.4-3.7,0.69919
+tr_self_efficacy,C,3.8-3.9,0.077551
+tr_self_efficacy,D,4.0,0.113132
+tr_self_efficacy,E,Not answered,0.029864
+tr_similar_wage_after,A,1-1999,0.007481
+tr_similar_wage_after,B,2000-2999,0.010276
+tr_similar_wage_after,C,3000-3999,0.011689
+tr_similar_wage_after,D,4000-4999,0.017467
+tr_similar_wage_after,E,5000-6999,0.040361
+tr_similar_wage_after,F,7000-9999,0.068744
+tr_similar_wage_after,G,10000-14999,0.30016
+tr_similar_wage_after,H,15000-24999,0.439908
+tr_similar_wage_after,I,Not answered,0.103914
+tr_target_sector,A,Architecture and Engineering,0.001517
+tr_target_sector,B,"Arts, Design, Entertainment, Sports",0.005093
+tr_target_sector,C,Building and Grounds Cleaning and Maintenance,0.008032
+tr_target_sector,D,Community and Social Service,0.006653
+tr_target_sector,E,Computer and Mathematical,0.00295
+tr_target_sector,F,Construction and Extraction,0.004289
+tr_target_sector,G,Educational Instruction and Library,0.00403
+tr_target_sector,H,Entrepreneurship/ Self-employment,0.003169
+tr_target_sector,I,"Farming, Fishing, and Forestry",0.001828
+tr_target_sector,J,Financial Operations,0.004835
+tr_target_sector,K,Food Preparation and Serving Related,0.021893
+tr_target_sector,L,Healthcare Practitioners and Technical,0.003979
+tr_target_sector,M,Healthcare Support,0.009646
+tr_target_sector,N,"Installation, Maintenance, and Repair",0.007179
+tr_target_sector,O,Legal,0.005453
+tr_target_sector,P,"Life, Physical, and Social Science",0.004632
+tr_target_sector,Q,Management,0.314472
+tr_target_sector,R,Office and Administrative Support,0.40857
+tr_target_sector,S,Personal Care and Service,0.026674
+tr_target_sector,T,Production,0.012636
+tr_target_sector,U,Protective Service,0.004103
+tr_target_sector,V,Sales and Related,0.018362
+tr_target_sector,W,Transportation and Material Moving,0.118947
+tr_target_sector,X,Not answered,0.001058
+tr_upskill_hours_week,A,0,0.001006
+tr_upskill_hours_week,B,1,0.003969
+tr_upskill_hours_week,C,2,0.002436
+tr_upskill_hours_week,D,3,0.007002
+tr_upskill_hours_week,E,4,0.006683
+tr_upskill_hours_week,F,5,0.006673
+tr_upskill_hours_week,G,6-10,0.1626
+tr_upskill_hours_week,H,11-15,0.064232
+tr_upskill_hours_week,I,16-20,0.027875
+tr_upskill_hours_week,J,21-30,0.404692
+tr_upskill_hours_week,K,31-40,0.118317
+tr_upskill_hours_week,L,more than 40,0.159783
+tr_upskill_hours_week,M,Not answered,0.034732
+user.accessedLearningLinks,A,no,0.000687
+user.accessedLearningLinks,B,plan to,0.004028
+user.accessedLearningLinks,C,yes,0.993976
+user.accessedLearningLinks,D,Not answered,0.001309
+user.appliedInThePastSector,A,Architecture and Engineering,0.002663
+user.appliedInThePastSector,B,"Arts, Design, Entertainment, Sport",0.008183
+user.appliedInThePastSector,C,Building and Grounds Cleaning and Maintenance,0.011417
+user.appliedInThePastSector,D,Community and Social Service,0.01071
+user.appliedInThePastSector,E,Computer and Mathematical,0.006479
+user.appliedInThePastSector,F,Construction and Extraction,0.010045
+user.appliedInThePastSector,G,Educational Instruction and Library,0.007798
+user.appliedInThePastSector,H,Entrepreneurship/ Self-employment,0.007192
+user.appliedInThePastSector,I,"Farming, Fishing, and Forestry",0.004598
+user.appliedInThePastSector,J,Financial Operations,0.013787
+user.appliedInThePastSector,K,Food Preparation and Serving Related,0.036303
+user.appliedInThePastSector,L,Healthcare Practitioners and Technical,0.007896
+user.appliedInThePastSector,M,Healthcare Support,0.013392
+user.appliedInThePastSector,N,"Installation, Maintenance, and Repair",0.011277
+user.appliedInThePastSector,O,Legal,0.010837
+user.appliedInThePastSector,P,"Life, Physical, and Social Science",0.008557
+user.appliedInThePastSector,Q,Management,0.067059
+user.appliedInThePastSector,R,Office and Administrative Support,0.322468
+user.appliedInThePastSector,S,Personal Care and Service,0.047927
+user.appliedInThePastSector,T,Production,0.028364
+user.appliedInThePastSector,U,Protective Service,0.007369
+user.appliedInThePastSector,V,Sales and Related,0.050913
+user.appliedInThePastSector,W,Transportation and Material Moving,0.28229
+user.appliedInThePastSector,X,Other,0.008815
+user.appliedInThePastSector,Y,Not answered,0.013661
+user.expectedToFindJobInSixMonths,A,no,0.000157
+user.expectedToFindJobInSixMonths,B,yes,0.999511
+user.expectedToFindJobInSixMonths,C,Not answered,0.000332
+user.expectsToFindJobInSixMonths,A,no,8e-05
+user.expectsToFindJobInSixMonths,B,yes,0.99958
+user.expectsToFindJobInSixMonths,C,Not answered,0.00034
+user.helpGetInterview,A,1,0.022251
+user.helpGetInterview,B,2,0.055029
+user.helpGetInterview,C,3,0.72556
+user.helpGetInterview,D,4,0.19047
+user.helpGetInterview,E,5,0.006299
+user.helpGetInterview,F,Not answered,0.000391
+user.helpGetJobInDesiredSector,A,1,0.0176
+user.helpGetJobInDesiredSector,B,2,0.041039
+user.helpGetJobInDesiredSector,C,3,0.710822
+user.helpGetJobInDesiredSector,D,4,0.221794
+user.helpGetJobInDesiredSector,E,5,0.00847
+user.helpGetJobInDesiredSector,F,Not answered,0.000275
+user.helpGettingJob,A,1,6.6e-05
+user.helpGettingJob,B,2,0.000768
+user.helpGettingJob,C,3,0.911036
+user.helpGettingJob,D,4,0.087765
+user.helpGettingJob,E,5,0.000351
+user.helpGettingJob,F,Not answered,1.4e-05
+user.helpJobSearch,A,1,4.3e-05
+user.helpJobSearch,B,2,0.000468
+user.helpJobSearch,C,3,0.96882
+user.helpJobSearch,D,4,0.030518
+user.helpJobSearch,E,5,0.000145
+user.helpJobSearch,F,Not answered,6e-06
+user.howLongInCurrentPosition,A,Less than one month,0.000133
+user.howLongInCurrentPosition,B,About one month,0.000816
+user.howLongInCurrentPosition,C,2-3 months,0.002217
+user.howLongInCurrentPosition,D,4-6 months,0.018795
+user.howLongInCurrentPosition,E,Under 6 months,0.005791
+user.howLongInCurrentPosition,F,6 months – 1 year,0.966563
+user.howLongInCurrentPosition,G,More than 1 year,0.004304
+user.howLongInCurrentPosition,H,More than 2 years,0.000913
+user.howLongInCurrentPosition,I,More than 5 years,0.000468
+user.howLongSearchingForJob,A,Less than one month,0.000224
+user.howLongSearchingForJob,B,About one month,0.002376
+user.howLongSearchingForJob,C,2-3 months,0.003996
+user.howLongSearchingForJob,D,4-6 months,0.042915
+user.howLongSearchingForJob,E,6 months – 1 year,0.947467
+user.howLongSearchingForJob,F,More than 1 year,0.002567
+user.howLongSearchingForJob,G,More than 2 years,0.000326
+user.howLongSearchingForJob,H,More than 5 years,0.00013
+user.howLongUnemployed,A,Less than one month,0.000552
+user.howLongUnemployed,B,About one month,0.002623
+user.howLongUnemployed,C,2-3 months,0.005334
+user.howLongUnemployed,D,4-6 months,0.079777
+user.howLongUnemployed,E,Under 6 months,0.043484
+user.howLongUnemployed,F,6 months – 1 year,0.849788
+user.howLongUnemployed,G,More than 1 year,0.0146
+user.howLongUnemployed,H,More than 2 years,0.002841
+user.howLongUnemployed,I,More than 5 years,0.001
+user.howManyApplicationsLastMonth,A,0,0.0007
+user.howManyApplicationsLastMonth,B,1,0.007611
+user.howManyApplicationsLastMonth,C,2,0.004041
+user.howManyApplicationsLastMonth,D,3,0.012222
+user.howManyApplicationsLastMonth,E,4,0.005704
+user.howManyApplicationsLastMonth,F,5,0.007476
+user.howManyApplicationsLastMonth,G,6-10,0.027574
+user.howManyApplicationsLastMonth,H,10-15,0.551776
+user.howManyApplicationsLastMonth,I,16-20,0.055717
+user.howManyApplicationsLastMonth,J,21-30,0.145784
+user.howManyApplicationsLastMonth,K,31-40,0.155331
+user.howManyApplicationsLastMonth,L,more than 40,0.026064
+user.howManyApplicationsNextMonth,A,0,0.001335
+user.howManyApplicationsNextMonth,B,1,0.013744
+user.howManyApplicationsNextMonth,C,2,0.01113
+user.howManyApplicationsNextMonth,D,3,0.027484
+user.howManyApplicationsNextMonth,E,4,0.068503
+user.howManyApplicationsNextMonth,F,5,0.016709
+user.howManyApplicationsNextMonth,G,6-10,0.041353
+user.howManyApplicationsNextMonth,H,10-15,0.322493
+user.howManyApplicationsNextMonth,I,16-20,0.079514
+user.howManyApplicationsNextMonth,J,21-30,0.217483
+user.howManyApplicationsNextMonth,K,31-40,0.136563
+user.howManyApplicationsNextMonth,L,more than 40,0.03188
+user.howManyApplicationsNextMonth,M,Not answered,0.031809
+user.howManyHoursSearchedPerWeek,A,0,0.000415
+user.howManyHoursSearchedPerWeek,B,1,0.003791
+user.howManyHoursSearchedPerWeek,C,2,0.002008
+user.howManyHoursSearchedPerWeek,D,3,0.007434
+user.howManyHoursSearchedPerWeek,E,4,0.00361
+user.howManyHoursSearchedPerWeek,F,5,0.004872
+user.howManyHoursSearchedPerWeek,G,6-10,0.016703
+user.howManyHoursSearchedPerWeek,H,10-15,0.653426
+user.howManyHoursSearchedPerWeek,I,16-20,0.039763
+user.howManyHoursSearchedPerWeek,J,21-30,0.149276
+user.howManyHoursSearchedPerWeek,K,31-40,0.07527
+user.howManyHoursSearchedPerWeek,L,more than 40,0.043432
+user.howManyHoursToUpskillPerWeek,A,0,0.000519
+user.howManyHoursToUpskillPerWeek,B,1,0.002804
+user.howManyHoursToUpskillPerWeek,C,2,0.002388
+user.howManyHoursToUpskillPerWeek,D,3,0.006873
+user.howManyHoursToUpskillPerWeek,E,4,0.006106
+user.howManyHoursToUpskillPerWeek,F,5,0.005601
+user.howManyHoursToUpskillPerWeek,G,6-10,0.290165
+user.howManyHoursToUpskillPerWeek,H,10-15,0.398323
+user.howManyHoursToUpskillPerWeek,I,16-20,0.029901
+user.howManyHoursToUpskillPerWeek,J,21-30,0.166285
+user.howManyHoursToUpskillPerWeek,K,31-40,0.078746
+user.howManyHoursToUpskillPerWeek,L,more than 40,0.012289
+user.howManyHoursWillSearchPerWeek,A,0,0.000808
+user.howManyHoursWillSearchPerWeek,B,1,0.005402
+user.howManyHoursWillSearchPerWeek,C,2,0.003364
+user.howManyHoursWillSearchPerWeek,D,3,0.010411
+user.howManyHoursWillSearchPerWeek,E,4,0.006769
+user.howManyHoursWillSearchPerWeek,F,5,0.008151
+user.howManyHoursWillSearchPerWeek,G,6-10,0.051531
+user.howManyHoursWillSearchPerWeek,H,10-15,0.530389
+user.howManyHoursWillSearchPerWeek,I,16-20,0.038096
+user.howManyHoursWillSearchPerWeek,J,21-30,0.181893
+user.howManyHoursWillSearchPerWeek,K,31-40,0.077758
+user.howManyHoursWillSearchPerWeek,L,more than 40,0.060086
+user.howManyHoursWillSearchPerWeek,M,Not answered,0.025343
+user.jobStrengthsAndWeaknesses,A,1,0.000227
+user.jobStrengthsAndWeaknesses,B,2,0.000879
+user.jobStrengthsAndWeaknesses,C,3,0.101515
+user.jobStrengthsAndWeaknesses,D,4,0.889889
+user.jobStrengthsAndWeaknesses,E,5,0.007407
+user.jobStrengthsAndWeaknesses,F,Not answered,8.3e-05
+user.likelyToRecommend,A,1,0.000574
+user.likelyToRecommend,B,2,0.002818
+user.likelyToRecommend,C,3,0.351751
+user.likelyToRecommend,D,4,0.639295
+user.likelyToRecommend,E,5,0.00549
+user.likelyToRecommend,F,Not answered,7.2e-05
+user.lowestAcceptablePayAfter,A,0,0.001965
+user.lowestAcceptablePayAfter,B,1-1999,0.0067
+user.lowestAcceptablePayAfter,C,2000-2999,0.005642
+user.lowestAcceptablePayAfter,D,3000-3999,0.016343
+user.lowestAcceptablePayAfter,E,4000-4999,0.019421
+user.lowestAcceptablePayAfter,F,5000-6999,0.02726
+user.lowestAcceptablePayAfter,G,7000-9999,0.020011
+user.lowestAcceptablePayAfter,H,10000-14999,0.206721
+user.lowestAcceptablePayAfter,I,15000-24999,0.219294
+user.lowestAcceptablePayAfter,J,25000+,0.417249
+user.lowestAcceptablePayAfter,K,Not answered,0.059393
+user.planToIncreaseJobSearch,A,yes,0.971616
+user.planToIncreaseJobSearch,B,same as before,0.025306
+user.planToIncreaseJobSearch,C,no,0.002643
+user.planToIncreaseJobSearch,D,not applicable,0.000308
+user.planToIncreaseJobSearch,E,Not answered,0.000128
+user.plannedCourses,A,Adaptability,0.021674
+user.plannedCourses,B,Career Interests,0.046582
+user.plannedCourses,C,Data Analysis in Excel,0.023441
+user.plannedCourses,D,Emotional Intelligence,0.031382
+user.plannedCourses,E,Financial,0.013008
+user.plannedCourses,F,Growth Mindset,0.012696
+user.plannedCourses,G,Mentoring Platform for Entrepreneurs,0.022905
+user.plannedCourses,H,Personality,0.00879
+user.plannedCourses,I,Persistence,0.006704
+user.plannedCourses,J,Problem Solving,0.030904
+user.plannedCourses,K,Programming,0.026263
+user.plannedCourses,L,Risk Propensity,0.022666
+user.plannedCourses,M,Running your own business,0.025765
+user.plannedCourses,N,Small Business Marketing,0.032982
+user.plannedCourses,O,Social Media Marketing,0.008667
+user.plannedCourses,P,Speed,0.007475
+user.plannedCourses,Q,Visual-spatial Working memory,0.028314
+user.plannedCourses,R,Not answered,0.629782
+user.plansToAttachSkillsReport,A,no,0.00043
+user.plansToAttachSkillsReport,B,yes,0.999188
+user.plansToAttachSkillsReport,C,Not answered,0.000381
+user.preferredSector,A,Architecture and Engineering,0.00358
+user.preferredSector,B,"Arts, Design, Entertainment, Sport",0.010703
+user.preferredSector,C,Building and Grounds Cleaning and Maintenance,0.02206
+user.preferredSector,D,Community and Social Service,0.012157
+user.preferredSector,E,Computer and Mathematical,0.008719
+user.preferredSector,F,Construction and Extraction,0.009529
+user.preferredSector,G,Educational Instruction and Library,0.009501
+user.preferredSector,H,Entrepreneurship/ Self-employment,0.009237
+user.preferredSector,I,"Farming, Fishing, and Forestry",0.003554
+user.preferredSector,J,Financial Operations,0.01201
+user.preferredSector,K,Food Preparation and Serving Related,0.045781
+user.preferredSector,L,Healthcare Practitioners and Technical,0.007132
+user.preferredSector,M,Healthcare Support,0.015886
+user.preferredSector,N,"Installation, Maintenance, and Repair",0.009659
+user.preferredSector,O,Legal,0.010368
+user.preferredSector,P,"Life, Physical, and Social Science",0.007757
+user.preferredSector,Q,Management,0.199023
+user.preferredSector,R,Office and Administrative Support,0.352335
+user.preferredSector,S,Personal Care and Service,0.029472
+user.preferredSector,T,Production,0.017841
+user.preferredSector,U,Protective Service,0.006257
+user.preferredSector,V,Sales and Related,0.029758
+user.preferredSector,W,Transportation and Material Moving,0.147421
+user.preferredSector,X,Other,0.006028
+user.preferredSector,Y,Not answered,0.014233
+user.reportUsefullness,A,1,0.000271
+user.reportUsefullness,B,2,0.001297
+user.reportUsefullness,C,3,0.924049
+user.reportUsefullness,D,4,0.071039
+user.reportUsefullness,E,5,0.003262
+user.reportUsefullness,F,Not answered,8.2e-05
+user.targetSector,A,Architecture and Engineering,0.002286
+user.targetSector,B,"Arts, Design, Entertainment, Sport",0.006798
+user.targetSector,C,Building and Grounds Cleaning and Maintenance,0.010217
+user.targetSector,D,Community and Social Service,0.008603
+user.targetSector,E,Computer and Mathematical,0.003937
+user.targetSector,F,Construction and Extraction,0.005586
+user.targetSector,G,Educational Instruction and Library,0.004999
+user.targetSector,H,Entrepreneurship/ Self-employment,0.004007
+user.targetSector,I,"Farming, Fishing, and Forestry",0.00248
+user.targetSector,J,Financial Operations,0.007519
+user.targetSector,K,Food Preparation and Serving Related,0.037681
+user.targetSector,L,Healthcare Practitioners and Technical,0.004314
+user.targetSector,M,Healthcare Support,0.011363
+user.targetSector,N,"Installation, Maintenance, and Repair",0.007082
+user.targetSector,O,Legal,0.007563
+user.targetSector,P,"Life, Physical, and Social Science",0.005387
+user.targetSector,Q,Management,0.228336
+user.targetSector,R,Office and Administrative Support,0.360702
+user.targetSector,S,Personal Care and Service,0.026762
+user.targetSector,T,Production,0.011634
+user.targetSector,U,Protective Service,0.005249
+user.targetSector,V,Sales and Related,0.025553
+user.targetSector,W,Transportation and Material Moving,0.194197
+user.targetSector,X,Other,0.003826
+user.targetSector,Y,Not answered,0.01392
+user.wageOfSimilarEmployeesAfter,A,0,0.001485
+user.wageOfSimilarEmployeesAfter,B,1-1999,0.004745
+user.wageOfSimilarEmployeesAfter,C,2000-2999,0.003845
+user.wageOfSimilarEmployeesAfter,D,3000-3999,0.010317
+user.wageOfSimilarEmployeesAfter,E,4000-4999,0.013271
+user.wageOfSimilarEmployeesAfter,F,5000-6999,0.02308
+user.wageOfSimilarEmployeesAfter,G,7000-9999,0.019417
+user.wageOfSimilarEmployeesAfter,H,10000-14999,0.333934
+user.wageOfSimilarEmployeesAfter,I,15000-24999,0.279637
+user.wageOfSimilarEmployeesAfter,J,25000+,0.278221
+user.wageOfSimilarEmployeesAfter,K,Not answered,0.032048
+user.willSkillsAttachHelpGetInterview,A,1,0.000137
+user.willSkillsAttachHelpGetInterview,B,2,0.001098
+user.willSkillsAttachHelpGetInterview,C,3,0.682885
+user.willSkillsAttachHelpGetInterview,D,4,0.315381
+user.willSkillsAttachHelpGetInterview,E,5,0.000472
+user.willSkillsAttachHelpGetInterview,F,Not answered,2.8e-05

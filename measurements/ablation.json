@@ -1,0 +1,25 @@
+{
+  "measured_utc": "2026-10-29T09:51:28+00:00",
+  "phase": 1,
+  "practice_data": "generated",
+  "results": {
+    "unhcr": {
+      "marginals": 0.0023,
+      "+ counts": 0.1774,
+      "+ gate rule": 0.1774,
+      "full model": 0.1774
+    },
+    "world_bank": {
+      "marginals": 0.0017,
+      "+ counts": 0.2382,
+      "+ gate rule": 0.2382,
+      "full model": 0.2382
+    },
+    "unicef": {
+      "marginals": -0.0028,
+      "+ counts": 0.3792,
+      "+ gate rule": 0.3792,
+      "full model": 0.3792
+    }
+  }
+}

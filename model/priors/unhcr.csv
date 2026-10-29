@@ -1,0 +1,679 @@
+item,letter,option,p
+s2_10_house_condition_lbl,A,1. The home is partially damaged but safe to live in,0.421302
+s2_10_house_condition_lbl,B,2. The home is partially damaged and unsafe to live in,0.115064
+s2_10_house_condition_lbl,C,3. The home is fully destroyed,0.029984
+s2_10_house_condition_lbl,D,4. The home has not been damaged or destroyed,0.345397
+s2_10_house_condition_lbl,E,98. Don't know,0.088254
+s2_11_house_occupancy_lbl,A,1. Inhabited with our household’s consent for free,0.074442
+s2_11_house_occupancy_lbl,B,2. Inhabited with our household’s consent and rented,0.888872
+s2_11_house_occupancy_lbl,C,3. Inhabited without our household’s consent,0.023068
+s2_11_house_occupancy_lbl,D,4. Unoccupied,0.009758
+s2_11_house_occupancy_lbl,E,97. Other (specify),0.002574
+s2_11_house_occupancy_lbl,F,98. Don't know,0.001286
+s2_6_return_decision_maker,A,1. Decision is made by Head of household,0.472477
+s2_6_return_decision_maker,B,2. Decision is made jointly with all adult members,0.063192
+s2_6_return_decision_maker,C,3. Decision is made by father and mother jointly,0.017816
+s2_6_return_decision_maker,D,4. Decision is made by respondent (if not head of household),0.29814
+s2_6_return_decision_maker,E,5. Decision is made by another household member(s),0.131097
+s2_6_return_decision_maker,F,6. Decision is made by another non-household member,0.017279
+s2_7_own_house_syria_lbl,A,0. No,0.646902
+s2_7_own_house_syria_lbl,B,1. Yes,0.342368
+s2_7_own_house_syria_lbl,C,98. I don't know,0.01073
+s2_8_own_land_syria_lbl,A,0. No,0.614696
+s2_8_own_land_syria_lbl,B,1. Yes,0.256757
+s2_8_own_land_syria_lbl,C,98. I don't know,0.128547
+s2_9_property_docs_lbl,A,"1. Yes, we have documents for all the property in Syria",0.002814
+s2_9_property_docs_lbl,B,"2. Yes, we have documents for some, but not all",0.004097
+s2_9_property_docs_lbl,C,"3. No, we do not have any documents",0.007762
+s2_9_property_docs_lbl,D,98. Don't know (DO NOT READ ALOUD),0.985327
+s3_10a_returnee_is_head_lbl,A,0. No,0.22881
+s3_10a_returnee_is_head_lbl,B,1. Yes,0.77119
+s3_10b_returnee_gender_lbl,A,1. Male,0.404444
+s3_10b_returnee_gender_lbl,B,2. Female,0.595556
+s3_10c_returnee_age,A,18-24,0.003794
+s3_10c_returnee_age,B,25-34,0.93987
+s3_10c_returnee_age,C,35-44,0.028754
+s3_10c_returnee_age,D,45-54,0.015529
+s3_10c_returnee_age,E,55-64,0.006261
+s3_10c_returnee_age,F,65+,0.005791
+s3_10d_employ_before_return_lbl,A,1. Employed in regular work,0.180117
+s3_10d_employ_before_return_lbl,B,"2. Employed in sporadic, irregular work",0.023984
+s3_10d_employ_before_return_lbl,C,3. Not employed and looking for work,0.086416
+s3_10d_employ_before_return_lbl,D,4. Not employed and not looking for work,0.367073
+s3_10d_employ_before_return_lbl,E,98. I don’t know,0.342411
+s3_10g_employ_syria_lbl,A,1. Employed in regular work,0.264157
+s3_10g_employ_syria_lbl,B,"2. Employed in sporadic, irregular work",0.058154
+s3_10g_employ_syria_lbl,C,3. Not employed and looking for work,0.352575
+s3_10g_employ_syria_lbl,D,4. Not employed and not looking for work,0.271562
+s3_10g_employ_syria_lbl,E,5. I don’t know,0.053552
+s3_11_intent_return_12m_lbl,A,0. No,0.974721
+s3_11_intent_return_12m_lbl,B,1. Yes,0.010791
+s3_11_intent_return_12m_lbl,C,98. I don't know,0.014488
+s3_12_hope_return_someday_lbl,A,0. No,0.959408
+s3_12_hope_return_someday_lbl,B,1. Yes,0.021002
+s3_12_hope_return_someday_lbl,C,98. I don't know,0.019591
+s3_13_hope_return_5yr_lbl,A,0. No,0.951733
+s3_13_hope_return_5yr_lbl,B,1. Yes,0.028998
+s3_13_hope_return_5yr_lbl,C,98. I don't know,0.019269
+s3_14_visit_importance_lbl,A,1. Extremely important,0.093155
+s3_14_visit_importance_lbl,B,2. Moderately important,0.110876
+s3_14_visit_importance_lbl,C,3. Neither important nor unimportant,0.409836
+s3_14_visit_importance_lbl,D,4. Slightly unimportant,0.169094
+s3_14_visit_importance_lbl,E,5. Not important at all,0.025031
+s3_14_visit_importance_lbl,F,98. I don't know,0.10488
+s3_14_visit_importance_lbl,G,99. I prefer not to answer,0.087127
+s3_15_friend_return_likely_lbl,A,1. Yes,0.005196
+s3_15_friend_return_likely_lbl,B,2. No,0.028827
+s3_15_friend_return_likely_lbl,C,3. My best friend is not Syrian.,0.003468
+s3_15_friend_return_likely_lbl,D,98. Don’t know,0.962508
+s3_16_friend_ret_econ_syria_lbl,A,0,0.275632
+s3_16_friend_ret_econ_syria_lbl,B,1,0.724368
+s3_16_friend_ret_family_lbl,A,0,0.110406
+s3_16_friend_ret_family_lbl,B,1,0.889594
+s3_16_friend_ret_has_property_lbl,A,0,0.494022
+s3_16_friend_ret_has_property_lbl,B,1,0.505978
+s3_16_friend_ret_has_resources_lbl,A,0,0.624508
+s3_16_friend_ret_has_resources_lbl,B,1,0.375492
+s3_16_friend_ret_high_cost_lbl,A,0,0.96501
+s3_16_friend_ret_high_cost_lbl,B,1,0.03499
+s3_16_friend_ret_homeland_lbl,A,0,0.585844
+s3_16_friend_ret_homeland_lbl,B,1,0.414156
+s3_16_friend_ret_no_econ_host_lbl,A,0,0.97942
+s3_16_friend_ret_no_econ_host_lbl,B,1,0.02058
+s3_16_friend_ret_no_legal_lbl,A,0,0.607517
+s3_16_friend_ret_no_legal_lbl,B,1,0.392483
+s3_16_friend_ret_no_services_lbl,A,0,0.962101
+s3_16_friend_ret_no_services_lbl,B,1,0.037899
+s3_16_friend_ret_other,A,0,0.263259
+s3_16_friend_ret_other,B,1,0.736741
+s3_16_friend_ret_safety_lbl,A,0,0.051287
+s3_16_friend_ret_safety_lbl,B,1,0.948713
+s3_17_friend_no_ret_food_insecurity_lbl,A,0,0.386183
+s3_17_friend_no_ret_food_insecurity_lbl,B,1,0.613817
+s3_17_friend_no_ret_no_econ_lbl,A,0,0.002319
+s3_17_friend_no_ret_no_econ_lbl,B,1,0.997681
+s3_17_friend_no_ret_no_education_lbl,A,0,0.023705
+s3_17_friend_no_ret_no_education_lbl,B,1,0.976295
+s3_17_friend_no_ret_no_electricity_lbl,A,0,0.652552
+s3_17_friend_no_ret_no_electricity_lbl,B,1,0.347448
+s3_17_friend_no_ret_no_health_lbl,A,0,0.027338
+s3_17_friend_no_ret_no_health_lbl,B,1,0.972662
+s3_17_friend_no_ret_no_water_lbl,A,0,0.192962
+s3_17_friend_no_ret_no_water_lbl,B,1,0.807038
+s3_17_friend_no_ret_other,A,0,0.06071
+s3_17_friend_no_ret_other,B,1,0.93929
+s3_17_friend_no_ret_safety_lbl,A,0,0.008025
+s3_17_friend_no_ret_safety_lbl,B,1,0.991975
+s3_18_num_network_returned_lbl,A,0,0.002049
+s3_18_num_network_returned_lbl,B,1,0.002807
+s3_18_num_network_returned_lbl,C,2,0.00324
+s3_18_num_network_returned_lbl,D,3,0.00483
+s3_18_num_network_returned_lbl,E,4,0.006646
+s3_18_num_network_returned_lbl,F,5,0.004454
+s3_18_num_network_returned_lbl,G,6-10,0.934852
+s3_18_num_network_returned_lbl,H,11+,0.041121
+s3_19_origin_comm_freq_lbl,A,1. Daily,0.002586
+s3_19_origin_comm_freq_lbl,B,2. Several times a week,0.002832
+s3_19_origin_comm_freq_lbl,C,3. Once a week,0.004399
+s3_19_origin_comm_freq_lbl,D,4. Several times a month,0.004879
+s3_19_origin_comm_freq_lbl,E,5. Once a month,0.011226
+s3_19_origin_comm_freq_lbl,F,6. Infrequently,0.775491
+s3_19_origin_comm_freq_lbl,G,7. Never,0.165484
+s3_19_origin_comm_freq_lbl,H,98. Don't know (DO NOT READ ALOUD),0.033104
+s3_1_has_valid_docs_lbl,A,1. Yes,0.022489
+s3_1_has_valid_docs_lbl,B,2. No,0.974633
+s3_1_has_valid_docs_lbl,C,98. I don't know (DO NOT READ ALOUD),0.002877
+s3_20_origin_employ_rating_lbl,A,1. Very poor,0.00461
+s3_20_origin_employ_rating_lbl,B,2. Somewhat poor,0.00313
+s3_20_origin_employ_rating_lbl,C,3. Neither poor nor good,0.071443
+s3_20_origin_employ_rating_lbl,D,4. Somewhat good,0.016878
+s3_20_origin_employ_rating_lbl,E,5. Very good,0.003262
+s3_20_origin_employ_rating_lbl,F,98. 98. Don’t know,0.597339
+s3_20_origin_employ_rating_lbl,G,99. Refused (DO NOT READ ALOUD),0.303338
+s3_21_employ_info_confidence_lbl,A,1. I am very confident – I know enough to understand,0.0098
+s3_21_employ_info_confidence_lbl,B,2. I am somewhat confident – I know a little but not enough,0.108356
+s3_21_employ_info_confidence_lbl,C,3. I am neither confident nor unconfident,0.71839
+s3_21_employ_info_confidence_lbl,D,4. I am not confident – I know very little,0.158676
+s3_21_employ_info_confidence_lbl,E,5. I am not at all confident – I don’t know anything,0.003108
+s3_21_employ_info_confidence_lbl,F,99. Refused (DO NOT READ ALOUD),0.001672
+s3_22_return_safety_feeling_lbl,A,1. Very safe,0.020214
+s3_22_return_safety_feeling_lbl,B,2. Somewhat safe,0.122743
+s3_22_return_safety_feeling_lbl,C,3. Neither safe nor unsafe,0.373444
+s3_22_return_safety_feeling_lbl,D,4. Somewhat unsafe,0.391674
+s3_22_return_safety_feeling_lbl,E,5. Very unsafe,0.052384
+s3_22_return_safety_feeling_lbl,F,98. Don't know/no opinion,0.03954
+s3_23_safety_active_conflict_lbl,A,0,0.112219
+s3_23_safety_active_conflict_lbl,B,1,0.887781
+s3_23_safety_armed_actors_lbl,A,0,0.046661
+s3_23_safety_armed_actors_lbl,B,1,0.953339
+s3_23_safety_explosives_lbl,A,0,0.069864
+s3_23_safety_explosives_lbl,B,1,0.930136
+s3_23_safety_kidnapping_lbl,A,0,0.040653
+s3_23_safety_kidnapping_lbl,B,1,0.959347
+s3_23_safety_law_enforcement_lbl,A,0,0.072151
+s3_23_safety_law_enforcement_lbl,B,1,0.927849
+s3_23_safety_no_concerns_lbl,A,0,0.078106
+s3_23_safety_no_concerns_lbl,B,1,0.921894
+s3_23_safety_other,A,0,0.064061
+s3_23_safety_other,B,1,0.935939
+s3_23_safety_public_spaces_lbl,A,0,0.129824
+s3_23_safety_public_spaces_lbl,B,1,0.870176
+s3_23_safety_theft_lbl,A,0,0.176274
+s3_23_safety_theft_lbl,B,1,0.823726
+s3_23_safety_tribal_conflict_lbl,A,0,0.155344
+s3_23_safety_tribal_conflict_lbl,B,1,0.844656
+s3_23a_safety_rank1_lbl,A,1. There is no reduction or end of active conflict,0.005725
+s3_23a_safety_rank1_lbl,B,2. Laws are not being enforced effectively,0.008752
+s3_23a_safety_rank1_lbl,C,3. There is no reduction or cessation of tribal/social conflict,0.01232
+s3_23a_safety_rank1_lbl,D,4. There is a large presence of armed actors,0.078954
+s3_23a_safety_rank1_lbl,E,"5. The area is not free of explosive hazards, mines, IEDs",0.004488
+s3_23a_safety_rank1_lbl,F,6. Public spaces remain unsafe to visit,0.003142
+s3_23a_safety_rank1_lbl,G,7. I have no safety or security concerns,0.004534
+s3_23a_safety_rank1_lbl,H,8. Concerns over theft,0.002409
+s3_23a_safety_rank1_lbl,I,9. Concerns over kidnapping,0.021235
+s3_23a_safety_rank1_lbl,J,97. Other (specify),0.858441
+s3_23b_safety_rank2_lbl,A,1. There is no reduction or end of active conflict,0.001795
+s3_23b_safety_rank2_lbl,B,2. Laws are not being enforced effectively,0.002513
+s3_23b_safety_rank2_lbl,C,3. There is no reduction or cessation of tribal/social conflict,0.00442
+s3_23b_safety_rank2_lbl,D,4. There is a large presence of armed actors,0.012467
+s3_23b_safety_rank2_lbl,E,"5. The area is not free of explosive hazards, mines, IEDs",0.000806
+s3_23b_safety_rank2_lbl,F,6. Public spaces remain unsafe to visit,0.000456
+s3_23b_safety_rank2_lbl,G,7. I have no safety or security concerns,0.001217
+s3_23b_safety_rank2_lbl,H,8. Concerns over theft,0.000764
+s3_23b_safety_rank2_lbl,I,9. Concerns over kidnapping,0.006415
+s3_23b_safety_rank2_lbl,J,97. Other (specify),0.969148
+s3_24_origin_electricity_lbl,A,1. Available 24 hours a day,0.000524
+s3_24_origin_electricity_lbl,B,"2. Available for some hours each day, but not all day",0.000425
+s3_24_origin_electricity_lbl,C,"3. Available some days each week, but not every day",0.000414
+s3_24_origin_electricity_lbl,D,4. Available less than once a week (e.g. a few times a month or rarely),0.001346
+s3_24_origin_electricity_lbl,E,5. Not available at all,0.000295
+s3_24_origin_electricity_lbl,F,98. Don't know (DO NOT READ ALOUD),0.99088
+s3_24_origin_electricity_lbl,G,99. Refuse to answer (DO NOT READ ALOUD),0.006116
+s3_25_origin_water_lbl,A,1. Water is available 24 hours a day,0.000429
+s3_25_origin_water_lbl,B,"2. Water is available for some hours each day, but not all day",0.000388
+s3_25_origin_water_lbl,C,"3. Water is available some days each week, but not every day",0.000408
+s3_25_origin_water_lbl,D,4. Water is available less than once a week,0.001303
+s3_25_origin_water_lbl,E,5. There is no water available,0.000261
+s3_25_origin_water_lbl,F,98. Don't know (DO NOT READ ALOUD),0.994402
+s3_25_origin_water_lbl,G,99. Refuse to answer (DO NOT READ ALOUD),0.002809
+s3_2_visited_syria_lbl,A,1. Yes,0.003202
+s3_2_visited_syria_lbl,B,2. No,0.994288
+s3_2_visited_syria_lbl,C,98. I don't know (DO NOT READ ALOUD),0.002107
+s3_2_visited_syria_lbl,D,99. I prefer not to answer (DO NOT READ ALOUD),0.000402
+s3_3_who_visited_lbl,A,1. I alone,0.007112
+s3_3_who_visited_lbl,B,2.  Another household member or members,0.013858
+s3_3_who_visited_lbl,C,3. I (self) AND another household member or members,0.97903
+s3_4a_visit_year,A,before 2011,5e-06
+s3_4a_visit_year,B,2011-2014,1e-06
+s3_4a_visit_year,C,2015-2018,2e-06
+s3_4a_visit_year,D,2019-2022,2e-06
+s3_4a_visit_year,E,2023,4e-06
+s3_4a_visit_year,F,2024,4e-06
+s3_4a_visit_year,G,2025,0.999924
+s3_4a_visit_year,H,98,4.6e-05
+s3_4a_visit_year,I,99,1.1e-05
+s3_4b_visit_month,A,1,0.006668
+s3_4b_visit_month,B,10,0.009475
+s3_4b_visit_month,C,11,0.004374
+s3_4b_visit_month,D,12,0.005474
+s3_4b_visit_month,E,2,0.005136
+s3_4b_visit_month,F,3,0.003194
+s3_4b_visit_month,G,4,0.007095
+s3_4b_visit_month,H,5,0.022903
+s3_4b_visit_month,I,6,0.200538
+s3_4b_visit_month,J,7,0.206444
+s3_4b_visit_month,K,8,0.042757
+s3_4b_visit_month,L,9,0.054297
+s3_4b_visit_month,M,98,0.361076
+s3_4b_visit_month,N,99,0.070568
+s3_5_family_in_syria_lbl,A,1. Yes,0.606197
+s3_5_family_in_syria_lbl,B,2. No,0.222133
+s3_5_family_in_syria_lbl,C,98. I don't know (DO NOT READ ALOUD),0.164729
+s3_5_family_in_syria_lbl,D,Not recorded,0.00694
+s3_6_permanent_returns_lbl,A,0. No,0.26132
+s3_6_permanent_returns_lbl,B,1. Yes,0.702731
+s3_6_permanent_returns_lbl,C,98. I don't know,0.032581
+s3_6_permanent_returns_lbl,D,99. Refused to answer,0.003367
+s3_7_num_permanent_returns_lbl,A,0,0.091706
+s3_7_num_permanent_returns_lbl,B,1,0.023891
+s3_7_num_permanent_returns_lbl,C,2,0.016033
+s3_7_num_permanent_returns_lbl,D,3,0.016481
+s3_7_num_permanent_returns_lbl,E,4,0.02499
+s3_7_num_permanent_returns_lbl,F,5,0.013588
+s3_7_num_permanent_returns_lbl,G,6-10,0.735661
+s3_7_num_permanent_returns_lbl,H,11+,0.077651
+s3_8a_return_year,A,before 2011,6.9e-05
+s3_8a_return_year,B,2011-2014,2.8e-05
+s3_8a_return_year,C,2015-2018,4.3e-05
+s3_8a_return_year,D,2019-2022,5.1e-05
+s3_8a_return_year,E,2023,0.00012
+s3_8a_return_year,F,2024,7.5e-05
+s3_8a_return_year,G,2025,0.998986
+s3_8a_return_year,H,98,0.000468
+s3_8a_return_year,I,99,0.00016
+s3_8b_return_month,A,1,0.012087
+s3_8b_return_month,B,10,0.023447
+s3_8b_return_month,C,11,0.010855
+s3_8b_return_month,D,12,0.014923
+s3_8b_return_month,E,2,0.010311
+s3_8b_return_month,F,3,0.005294
+s3_8b_return_month,G,4,0.010945
+s3_8b_return_month,H,5,0.021557
+s3_8b_return_month,I,6,0.120097
+s3_8b_return_month,J,7,0.246461
+s3_8b_return_month,K,8,0.047819
+s3_8b_return_month,L,9,0.062138
+s3_8b_return_month,M,98,0.338617
+s3_8b_return_month,N,99,0.075447
+s3_9a_recent_returns_count_lbl,A,0,0.082311
+s3_9a_recent_returns_count_lbl,B,1,0.030925
+s3_9a_recent_returns_count_lbl,C,2,0.020654
+s3_9a_recent_returns_count_lbl,D,3,0.020509
+s3_9a_recent_returns_count_lbl,E,4,0.027078
+s3_9a_recent_returns_count_lbl,F,5,0.015766
+s3_9a_recent_returns_count_lbl,G,6-10,0.724305
+s3_9a_recent_returns_count_lbl,H,11+,0.078451
+s3_9b_returned_children,A,0,0.044679
+s3_9b_returned_children,B,1,0.036538
+s3_9b_returned_children,C,2,0.030154
+s3_9b_returned_children,D,3,0.030959
+s3_9b_returned_children,E,4,0.046958
+s3_9b_returned_children,F,5,0.020758
+s3_9b_returned_children,G,6-10,0.7148
+s3_9b_returned_children,H,11+,0.075154
+s3_9c_returnee_working_lbl,A,1. Yes,0.005345
+s3_9c_returnee_working_lbl,B,2. No,0.980024
+s3_9c_returnee_working_lbl,C,98. Don't know,0.014632
+s4_0_hh_anyone_working_lbl,A,0. No,0.002993
+s4_0_hh_anyone_working_lbl,B,1. Yes,0.997007
+s4_10_family_biz_lastweek_lbl,A,1. Yes,0.021012
+s4_10_family_biz_lastweek_lbl,B,2. No,0.975713
+s4_10_family_biz_lastweek_lbl,C,98. I don't know (DO NOT READ ALOUD),0.002625
+s4_10_family_biz_lastweek_lbl,D,99. I prefer not to answer (DO NOT READ ALOUD),0.00065
+s4_11_job_but_absent_lbl,A,1. Yes,0.085645
+s4_11_job_but_absent_lbl,B,2. No,0.912211
+s4_11_job_but_absent_lbl,C,98. I don't know (DO NOT READ ALOUD),0.001433
+s4_11_job_but_absent_lbl,D,99. I prefer not to answer (DO NOT READ ALOUD),0.000711
+s4_16_employment_type_lbl,A,1. Day laborer,0.02306
+s4_16_employment_type_lbl,B,"2. Salaried worker, private sector",0.036959
+s4_16_employment_type_lbl,C,"3. Salaried worker, public sector",0.025118
+s4_16_employment_type_lbl,D,4. Self-employed without paid employees (own-account worker),0.068272
+s4_16_employment_type_lbl,E,5. Self-employed with paid employees,0.007039
+s4_16_employment_type_lbl,F,6. Unpaid/in-kind household worker,0.005343
+s4_16_employment_type_lbl,G,7. Other (please specify),0.102275
+s4_16_employment_type_lbl,H,98. Don’t know,0.678753
+s4_16_employment_type_lbl,I,99. Refused,0.053181
+s4_1_is_main_earner_lbl,A,0. No,0.013317
+s4_1_is_main_earner_lbl,B,1. Yes,0.986683
+s4_3_main_earner_gender,A,1. Male,0.965203
+s4_3_main_earner_gender,B,2. Female,0.034797
+s4_4_main_earner_age,A,<18,0.001945
+s4_4_main_earner_age,B,18-24,0.025312
+s4_4_main_earner_age,C,25-34,0.85628
+s4_4_main_earner_age,D,35-44,0.064135
+s4_4_main_earner_age,E,45-54,0.040431
+s4_4_main_earner_age,F,55-64,0.008014
+s4_4_main_earner_age,G,65+,0.003883
+s4_5_main_earner_relation_lbl,A,1. Head of household,0.000266
+s4_5_main_earner_relation_lbl,B,2. Spouse/partner,0.000128
+s4_5_main_earner_relation_lbl,C,3. Son/Daughter,5.1e-05
+s4_5_main_earner_relation_lbl,D,4. Son/Daughter-in-law,6.3e-05
+s4_5_main_earner_relation_lbl,E,5. Father/Mother,6.5e-05
+s4_5_main_earner_relation_lbl,F,6. Father/Mother-in-law,9e-06
+s4_5_main_earner_relation_lbl,G,7. Brother/Sister,5.9e-05
+s4_5_main_earner_relation_lbl,H,8. Other adult member of the household,0.99913
+s4_5_main_earner_relation_lbl,I,9. A non-household member,0.000228
+s4_6_main_earner_education_lbl,A,1. No formal education,0.004948
+s4_6_main_earner_education_lbl,B,2. Early Childhood Education or Pre-primary,0.002926
+s4_6_main_earner_education_lbl,C,3. Primary,0.006188
+s4_6_main_earner_education_lbl,D,4. Secondary,0.08541
+s4_6_main_earner_education_lbl,E,5. Secondary - Technical and Vocational Education and Training (TVET),0.006919
+s4_6_main_earner_education_lbl,F,6. Post-secondary - Technical and Vocational Education and Training (TVET),0.002668
+s4_6_main_earner_education_lbl,G,7. Tertiary and above,0.890942
+s4_7_has_work_permit_lbl,A,0. No,0.175546
+s4_7_has_work_permit_lbl,B,1. Yes,0.760911
+s4_7_has_work_permit_lbl,C,98. I don't know,0.056714
+s4_7_has_work_permit_lbl,D,99. Refused to answer,0.00683
+s4_8_worked_pay_lastweek_lbl,A,1. Yes,0.007738
+s4_8_worked_pay_lastweek_lbl,B,2. No,0.98973
+s4_8_worked_pay_lastweek_lbl,C,98. I don't know (DO NOT READ ALOUD),0.002131
+s4_8_worked_pay_lastweek_lbl,D,99. I prefer not to answer (DO NOT READ ALOUD),0.000401
+s4_9_business_lastweek_lbl,A,1. Yes,0.0287
+s4_9_business_lastweek_lbl,B,2. No,0.966993
+s4_9_business_lastweek_lbl,C,98. I don't know (DO NOT READ ALOUD),0.003551
+s4_9_business_lastweek_lbl,D,99. I prefer not to answer (DO NOT READ ALOUD),0.000756
+s5_10_community_relations_lbl,A,1. Very positive,0.001959
+s5_10_community_relations_lbl,B,2. Positive,0.014117
+s5_10_community_relations_lbl,C,3. Neither positive nor negative,0.960997
+s5_10_community_relations_lbl,D,4. Negative,0.020591
+s5_10_community_relations_lbl,E,5. Very negative,0.000733
+s5_10_community_relations_lbl,F,98. Don’t know (DO NOT READ ALOUD),0.000711
+s5_10_community_relations_lbl,G,99. Refused (DO NOT READ ALOUD),0.000892
+s5_1_unfair_treatment_freq_lbl,A,1. Never,0.064075
+s5_1_unfair_treatment_freq_lbl,B,2. Rarely,0.087073
+s5_1_unfair_treatment_freq_lbl,C,3. Sometimes,0.3619
+s5_1_unfair_treatment_freq_lbl,D,4. Often,0.119198
+s5_1_unfair_treatment_freq_lbl,E,5. Always,0.019733
+s5_1_unfair_treatment_freq_lbl,F,98. Don’t know/no opinion,0.318767
+s5_1_unfair_treatment_freq_lbl,G,99. Prefer not to answer,0.029253
+s5_2_citizen_friends_ratio_lbl,A,1. None,0.733853
+s5_2_citizen_friends_ratio_lbl,B,2. Less than half,0.171063
+s5_2_citizen_friends_ratio_lbl,C,3. Half,0.032861
+s5_2_citizen_friends_ratio_lbl,D,4. More than half,0.046625
+s5_2_citizen_friends_ratio_lbl,E,5. All,0.015598
+s5_3_refugee_friends_ratio_lbl,A,1. None,0.359651
+s5_3_refugee_friends_ratio_lbl,B,2. Less than half,0.288722
+s5_3_refugee_friends_ratio_lbl,C,3. Half,0.069694
+s5_3_refugee_friends_ratio_lbl,D,4. More than half,0.240753
+s5_3_refugee_friends_ratio_lbl,E,5. All,0.04118
+s5_4_employ_discrimination_lbl,A,1. Never,0.003153
+s5_4_employ_discrimination_lbl,B,2. Rarely,0.032362
+s5_4_employ_discrimination_lbl,C,3. Sometimes,0.556374
+s5_4_employ_discrimination_lbl,D,4. Often,0.395702
+s5_4_employ_discrimination_lbl,E,5. Always,0.00738
+s5_4_employ_discrimination_lbl,F,98. Don’t know/no opinion,0.004036
+s5_4_employ_discrimination_lbl,G,99. Prefer not to answer,0.000992
+s5_5_shopping_discrimination_lbl,A,1. Strongly agree,0.000504
+s5_5_shopping_discrimination_lbl,B,2. Somewhat agree,0.001438
+s5_5_shopping_discrimination_lbl,C,3. Neither agree nor disagree,0.98087
+s5_5_shopping_discrimination_lbl,D,4. Somewhat disagree,0.012857
+s5_5_shopping_discrimination_lbl,E,5. Strongly disagree,0.003951
+s5_5_shopping_discrimination_lbl,F,98. Don’t know/no opinion [DO NOT READ ALOUD],0.000379
+s5_6_feel_left_out_lbl,A,1. Strongly agree,0.00316
+s5_6_feel_left_out_lbl,B,2. Somewhat agree,0.008421
+s5_6_feel_left_out_lbl,C,3. Neither agree nor disagree,0.964431
+s5_6_feel_left_out_lbl,D,4. Somewhat disagree,0.017052
+s5_6_feel_left_out_lbl,E,5. Strongly disagree,0.003219
+s5_6_feel_left_out_lbl,F,98. Don’t know/no opinion [DO NOT READ ALOUD],0.003716
+s5_7_life_complicated_lbl,A,1. Strongly agree,0.007933
+s5_7_life_complicated_lbl,B,2. Somewhat agree,0.013506
+s5_7_life_complicated_lbl,C,3. Neither agree nor disagree,0.801586
+s5_7_life_complicated_lbl,D,4. Somewhat disagree,0.036328
+s5_7_life_complicated_lbl,E,5. Strongly disagree,0.008456
+s5_7_life_complicated_lbl,F,98. Don’t know/no opinion [DO NOT READ ALOUD],0.132192
+s5_8_value_not_recognized_lbl,A,1. Strongly agree,0.00732
+s5_8_value_not_recognized_lbl,B,2. Somewhat agree,0.02812
+s5_8_value_not_recognized_lbl,C,3. Neither agree nor disagree,0.938028
+s5_8_value_not_recognized_lbl,D,4. Somewhat disagree,0.019549
+s5_8_value_not_recognized_lbl,E,5. Strongly disagree,0.004112
+s5_8_value_not_recognized_lbl,F,98. Don’t know/no opinion [DO NOT READ ALOUD],0.00287
+s5_9_looked_down_on_lbl,A,1. Strongly agree,0.004472
+s5_9_looked_down_on_lbl,B,2. Somewhat agree,0.038414
+s5_9_looked_down_on_lbl,C,3. Neither agree nor disagree,0.916765
+s5_9_looked_down_on_lbl,D,4. Somewhat disagree,0.033382
+s5_9_looked_down_on_lbl,E,5. Strongly disagree,0.00348
+s5_9_looked_down_on_lbl,F,98. Don’t know/no opinion [DO NOT READ ALOUD],0.003487
+s6_10_face_challenges_lbl,A,0. No,0.009611
+s6_10_face_challenges_lbl,B,1. Yes,0.987782
+s6_10_face_challenges_lbl,C,98. I don't know,0.001933
+s6_10_face_challenges_lbl,D,99. Refused to answer,0.000673
+s6_11_challenge_debt_lbl,A,0,0.019626
+s6_11_challenge_debt_lbl,B,1,0.980374
+s6_11_challenge_education_access_lbl,A,0,0.054803
+s6_11_challenge_education_access_lbl,B,1,0.945197
+s6_11_challenge_employment_lbl,A,0,0.178621
+s6_11_challenge_employment_lbl,B,1,0.821379
+s6_11_challenge_eviction_lbl,A,0,0.001198
+s6_11_challenge_eviction_lbl,B,1,0.998802
+s6_11_challenge_forced_return_lbl,A,0,0.018392
+s6_11_challenge_forced_return_lbl,B,1,0.981608
+s6_11_challenge_health_access_lbl,A,0,0.045082
+s6_11_challenge_health_access_lbl,B,1,0.954918
+s6_11_challenge_legal_lbl,A,0,0.035217
+s6_11_challenge_legal_lbl,B,1,0.964783
+s6_11_challenge_movement_lbl,A,0,0.003864
+s6_11_challenge_movement_lbl,B,1,0.996136
+s6_11_challenge_no_assistance_lbl,A,0,0.919607
+s6_11_challenge_no_assistance_lbl,B,1,0.080393
+s6_11_challenge_other,A,0,0.054254
+s6_11_challenge_other,B,1,0.945746
+s6_11_challenge_safety_lbl,A,0,0.008924
+s6_11_challenge_safety_lbl,B,1,0.991076
+s6_11_challenge_separation_lbl,A,0,0.025474
+s6_11_challenge_separation_lbl,B,1,0.974526
+s6_11_challenge_tensions_lbl,A,0,0.009548
+s6_11_challenge_tensions_lbl,B,1,0.990452
+s6_12_children_schooling_lbl,A,0. No,0.031625
+s6_12_children_schooling_lbl,B,1. Yes,0.954056
+s6_12_children_schooling_lbl,C,98. I don't know,0.012265
+s6_12_children_schooling_lbl,D,99. Refused to answer,0.002054
+s6_1_income_community_lbl,A,0,0.499942
+s6_1_income_community_lbl,B,1,0.500058
+s6_1_income_dont_know_lbl,A,0,0.059959
+s6_1_income_dont_know_lbl,B,1,0.940041
+s6_1_income_government_lbl,A,0,0.41227
+s6_1_income_government_lbl,B,1,0.58773
+s6_1_income_humanitarian_lbl,A,0,0.225149
+s6_1_income_humanitarian_lbl,B,1,0.774851
+s6_1_income_loans_lbl,A,0,0.050966
+s6_1_income_loans_lbl,B,1,0.949034
+s6_1_income_no_answer_lbl,A,0,0.06702
+s6_1_income_no_answer_lbl,B,1,0.93298
+s6_1_income_none_lbl,A,0,0.108137
+s6_1_income_none_lbl,B,1,0.891863
+s6_1_income_other,A,0,0.098002
+s6_1_income_other,B,1,0.901998
+s6_1_income_remittances_lbl,A,0,0.00402
+s6_1_income_remittances_lbl,B,1,0.99598
+s6_1_income_savings_lbl,A,0,0.94813
+s6_1_income_savings_lbl,B,1,0.05187
+s6_1_income_selling_assets_lbl,A,0,0.167448
+s6_1_income_selling_assets_lbl,B,1,0.832552
+s6_1_income_syria_pension_lbl,A,0,0.817309
+s6_1_income_syria_pension_lbl,B,1,0.182691
+s6_1_income_work_lbl,A,0,0.003713
+s6_1_income_work_lbl,B,1,0.996287
+s6_2_income_varies_lbl,A,"1. Yes, it varies a lot",0.023184
+s6_2_income_varies_lbl,B,"2. Yes, it varies a little",0.019124
+s6_2_income_varies_lbl,C,"3. No, it doesn’t vary",0.566942
+s6_2_income_varies_lbl,D,98. Don’t know,0.386652
+s6_2_income_varies_lbl,E,99. Refused,0.004099
+s6_3_income_adequacy_lbl,A,"1. Our household income covers our expenses, and we are able to save",0.000108
+s6_3_income_adequacy_lbl,B,2. Our household income covers our expenses without notable difficulties but we are not able to save,0.000362
+s6_3_income_adequacy_lbl,C,3. Our household income does not cover our expenses and we face some difficulties in meeting our needs,0.004802
+s6_3_income_adequacy_lbl,D,4. Our household income does not cover our expenses and we face significant difficulties in meeting our needs,0.994728
+s6_4_need_commodities_lbl,A,0,0.014122
+s6_4_need_commodities_lbl,B,1,0.985878
+s6_4_need_education_lbl,A,0,0.0566
+s6_4_need_education_lbl,B,1,0.9434
+s6_4_need_electricity_lbl,A,0,0.515312
+s6_4_need_electricity_lbl,B,1,0.484688
+s6_4_need_food_lbl,A,0,0.000251
+s6_4_need_food_lbl,B,1,0.999749
+s6_4_need_health_lbl,A,0,0.041442
+s6_4_need_health_lbl,B,1,0.958558
+s6_4_need_housing_lbl,A,0,0.018285
+s6_4_need_housing_lbl,B,1,0.981715
+s6_4_need_other,A,0,0.664977
+s6_4_need_other,B,1,0.335023
+s6_4_need_water_lbl,A,0,0.304852
+s6_4_need_water_lbl,B,1,0.695148
+s6_5_assistance_received_lbl,A,0. No,0.056367
+s6_5_assistance_received_lbl,B,1. Yes,0.924891
+s6_5_assistance_received_lbl,C,98. I don't know,0.017183
+s6_5_assistance_received_lbl,D,99. Refused to answer,0.00156
+s6_6_assist_government_lbl,A,0,0.351681
+s6_6_assist_government_lbl,B,1,0.648319
+s6_6_assist_intl_orgs_lbl,A,0,0.025949
+s6_6_assist_intl_orgs_lbl,B,1,0.974051
+s6_6_assist_ngo_lbl,A,0,0.149911
+s6_6_assist_ngo_lbl,B,1,0.850089
+s6_6_assist_other,A,0,0.652057
+s6_6_assist_other,B,1,0.347943
+s6_6_assist_religious_lbl,A,0,0.588852
+s6_6_assist_religious_lbl,B,1,0.411148
+s6_6_assist_unhcr_lbl,A,0,0.002882
+s6_6_assist_unhcr_lbl,B,1,0.997118
+s6_6_assist_wfp_lbl,A,0,0.015856
+s6_6_assist_wfp_lbl,B,1,0.984144
+s6_7_receive_remittances_lbl,A,"1. Yes, regularly",0.007312
+s6_7_receive_remittances_lbl,B,"2. Yes, irregularly",0.005726
+s6_7_receive_remittances_lbl,C,3. No,0.985456
+s6_7_receive_remittances_lbl,D,99. Prefer not to answer,0.001506
+s6_8_send_remittances_lbl,A,"1. Yes, regularly",0.013688
+s6_8_send_remittances_lbl,B,"2. Yes, irregularly",0.007793
+s6_8_send_remittances_lbl,C,3. No,0.971085
+s6_8_send_remittances_lbl,D,98. Don’t know,0.00684
+s6_8_send_remittances_lbl,E,99. Prefer not to answer,0.000594
+s6_9a_debt_host_country_lbl,A,1. Yes,0.001092
+s6_9a_debt_host_country_lbl,B,2. No,0.99787
+s6_9a_debt_host_country_lbl,C,98. Don't know,0.000755
+s6_9a_debt_host_country_lbl,D,99. Prefer not to answer,0.000283
+s6_9b_debt_syria_lbl,A,1. Yes,0.008194
+s6_9b_debt_syria_lbl,B,2. No,0.98652
+s6_9b_debt_syria_lbl,C,98. Don't know,0.004359
+s6_9b_debt_syria_lbl,D,99. Prefer not to answer,0.000927
+s7a_1_return_destination_lbl,A,1. Same place of origin in Syria,0.035183
+s7a_1_return_destination_lbl,B,2. Another village/town/city/governorate/district,0.015021
+s7a_1_return_destination_lbl,C,98. I don't know / I am undecided,0.949797
+s7a_2_location_known_lbl,A,0. No,0.635123
+s7a_2_location_known_lbl,B,1. Yes,0.25777
+s7a_2_location_known_lbl,C,98. Undecided,0.107106
+s7a_4_return_alone_lbl,A,0. No,0.90301
+s7a_4_return_alone_lbl,B,1. Yes,0.09699
+s7a_5_alone_reason_lbl,A,1. I want to reestablish a situation first before bringing my family,0.163848
+s7a_5_alone_reason_lbl,B,2. My family is already in Syria,0.010579
+s7a_5_alone_reason_lbl,C,3. My family wants to remain in host country,0.012308
+s7a_5_alone_reason_lbl,D,4. I have no family in Syria or in host country,0.019983
+s7a_5_alone_reason_lbl,E,97. Others (please specify),0.793282
+s7a_6_return_companions_lbl,A,1. All family members,0.00285
+s7a_6_return_companions_lbl,B,2. All family members and extended family,0.002013
+s7a_6_return_companions_lbl,C,3. Some family members while others remain in the ${Q1_2_CoA_label_label},0.979843
+s7a_6_return_companions_lbl,D,4. Undecided/Not sure,0.015295
+s7a_7_reason_education_opps_lbl,A,0,0.636072
+s7a_7_reason_education_opps_lbl,B,1,0.363928
+s7a_7_reason_family_reunite_lbl,A,0,0.000491
+s7a_7_reason_family_reunite_lbl,B,1,0.999509
+s7a_7_reason_high_cost_living_lbl,A,0,0.981281
+s7a_7_reason_high_cost_living_lbl,B,1,0.018719
+s7a_7_reason_homeland_lbl,A,0,0.861842
+s7a_7_reason_homeland_lbl,B,1,0.138158
+s7a_7_reason_limited_jobs_lbl,A,0,0.993451
+s7a_7_reason_limited_jobs_lbl,B,1,0.006549
+s7a_7_reason_livelihood_found_lbl,A,0,0.083141
+s7a_7_reason_livelihood_found_lbl,B,1,0.916859
+s7a_7_reason_movement_freedom_lbl,A,0,0.163226
+s7a_7_reason_movement_freedom_lbl,B,1,0.836774
+s7a_7_reason_other,A,0,0.711631
+s7a_7_reason_other,B,1,0.288369
+s7a_7_reason_pna_lbl,A,0,1.0
+s7a_7_reason_positive_feedback_lbl,A,0,0.220838
+s7a_7_reason_positive_feedback_lbl,B,1,0.779162
+s7a_7_reason_problems_host_lbl,A,0,0.705751
+s7a_7_reason_problems_host_lbl,B,1,0.294249
+s7a_7_reason_property_access_lbl,A,0,0.992037
+s7a_7_reason_property_access_lbl,B,1,0.007963
+s7a_7_reason_residency_delays_lbl,A,0,0.031939
+s7a_7_reason_residency_delays_lbl,B,1,0.968061
+s7a_7_reason_residency_other,A,0,0.809383
+s7a_7_reason_residency_other,B,1,0.190617
+s7a_7_reason_safety_improved_lbl,A,0,0.098865
+s7a_7_reason_safety_improved_lbl,B,1,0.901135
+s7a_7_reason_services_adequate_lbl,A,0,0.548395
+s7a_7_reason_services_adequate_lbl,B,1,0.451605
+s7a_7_reason_sufficient_info_lbl,A,0,0.954681
+s7a_7_reason_sufficient_info_lbl,B,1,0.045319
+s7a_7_reason_sufficient_resources_lbl,A,0,0.95004
+s7a_7_reason_sufficient_resources_lbl,B,1,0.04996
+s7a_7_reason_work_permit_lbl,A,0,0.645688
+s7a_7_reason_work_permit_lbl,B,1,0.354312
+s7b_1_no_return_PNA_lbl,A,0,0.102476
+s7b_1_no_return_PNA_lbl,B,1,0.897524
+s7b_1_no_return_adapted_host_lbl,A,0,0.102889
+s7b_1_no_return_adapted_host_lbl,B,1,0.897111
+s7b_1_no_return_advised_against_lbl,A,0,0.03455
+s7b_1_no_return_advised_against_lbl,B,1,0.96545
+s7b_1_no_return_better_assistance_lbl,A,0,0.18856
+s7b_1_no_return_better_assistance_lbl,B,1,0.81144
+s7b_1_no_return_debt_host_lbl,A,0,0.061437
+s7b_1_no_return_debt_host_lbl,B,1,0.938563
+s7b_1_no_return_debt_syria_lbl,A,0,0.462931
+s7b_1_no_return_debt_syria_lbl,B,1,0.537069
+s7b_1_no_return_dont_know_lbl,A,0,0.154584
+s7b_1_no_return_dont_know_lbl,B,1,0.845416
+s7b_1_no_return_economic_syria_lbl,A,0,0.005175
+s7b_1_no_return_economic_syria_lbl,B,1,0.994825
+s7b_1_no_return_family_needs_lbl,A,0,0.060497
+s7b_1_no_return_family_needs_lbl,B,1,0.939503
+s7b_1_no_return_have_citizenship_lbl,A,0,0.09895
+s7b_1_no_return_have_citizenship_lbl,B,1,0.90105
+s7b_1_no_return_health_travel_lbl,A,0,0.242629
+s7b_1_no_return_health_travel_lbl,B,1,0.757371
+s7b_1_no_return_home_damaged_lbl,A,0,0.273874
+s7b_1_no_return_home_damaged_lbl,B,1,0.726126
+s7b_1_no_return_housing_lbl,A,0,0.099236
+s7b_1_no_return_housing_lbl,B,1,0.900764
+s7b_1_no_return_legal_docs_lbl,A,0,0.040257
+s7b_1_no_return_legal_docs_lbl,B,1,0.959743
+s7b_1_no_return_livelihood_lbl,A,0,0.04568
+s7b_1_no_return_livelihood_lbl,B,1,0.95432
+s7b_1_no_return_no_family_lbl,A,0,0.83728
+s7b_1_no_return_no_family_lbl,B,1,0.16272
+s7b_1_no_return_no_resources_lbl,A,0,0.428521
+s7b_1_no_return_no_resources_lbl,B,1,0.571479
+s7b_1_no_return_other,A,0,0.099256
+s7b_1_no_return_other,B,1,0.900744
+s7b_1_no_return_safety_concerns_lbl,A,0,0.006784
+s7b_1_no_return_safety_concerns_lbl,B,1,0.993216
+s7b_1_no_return_services_lbl,A,0,0.119077
+s7b_1_no_return_services_lbl,B,1,0.880923
+s7b_1_no_return_social_tensions_lbl,A,0,0.050203
+s7b_1_no_return_social_tensions_lbl,B,1,0.949797
+s7b_2_recon_PNA_lbl,A,0,0.261185
+s7b_2_recon_PNA_lbl,B,1,0.738815
+s7b_2_recon_asylum_negative_lbl,A,0,0.286498
+s7b_2_recon_asylum_negative_lbl,B,1,0.713502
+s7b_2_recon_basic_services_lbl,A,0,0.767014
+s7b_2_recon_basic_services_lbl,B,1,0.232986
+s7b_2_recon_debt_paid_host_lbl,A,0,0.777985
+s7b_2_recon_debt_paid_host_lbl,B,1,0.222015
+s7b_2_recon_debt_paid_syria_lbl,A,0,0.864705
+s7b_2_recon_debt_paid_syria_lbl,B,1,0.135295
+s7b_2_recon_family_together_lbl,A,0,0.912099
+s7b_2_recon_family_together_lbl,B,1,0.087901
+s7b_2_recon_host_worse_lbl,A,0,0.803269
+s7b_2_recon_host_worse_lbl,B,1,0.196731
+s7b_2_recon_housing_access_lbl,A,0,0.998927
+s7b_2_recon_housing_access_lbl,B,1,0.001073
+s7b_2_recon_legal_access_lbl,A,0,0.141624
+s7b_2_recon_legal_access_lbl,B,1,0.858376
+s7b_2_recon_livelihood_opps_lbl,A,0,0.983475
+s7b_2_recon_livelihood_opps_lbl,B,1,0.016525
+s7b_2_recon_never_lbl,A,0,0.892116
+s7b_2_recon_never_lbl,B,1,0.107884
+s7b_2_recon_other,A,0,0.896804
+s7b_2_recon_other,B,1,0.103196
+s7b_2_recon_others_returning_lbl,A,0,0.422228
+s7b_2_recon_others_returning_lbl,B,1,0.577772
+s7b_2_recon_reentry_possible_lbl,A,0,0.541373
+s7b_2_recon_reentry_possible_lbl,B,1,0.458627
+s7b_2_recon_safety_improved_lbl,A,0,0.865711
+s7b_2_recon_safety_improved_lbl,B,1,0.134289
+s7b_2_recon_special_services_lbl,A,0,0.159479
+s7b_2_recon_special_services_lbl,B,1,0.840521
+s7b_2_recon_sufficient_resources_lbl,A,0,0.626089
+s7b_2_recon_sufficient_resources_lbl,B,1,0.373911
+s7b_2_recon_war_host_lbl,A,0,0.203921
+s7b_2_recon_war_host_lbl,B,1,0.796079
+s7c_1_cond_basic_services_lbl,A,0,0.775307
+s7c_1_cond_basic_services_lbl,B,1,0.224693
+s7c_1_cond_debt_paid_host_lbl,A,0,0.954804
+s7c_1_cond_debt_paid_host_lbl,B,1,0.045196
+s7c_1_cond_debt_paid_syria_lbl,A,0,0.215752
+s7c_1_cond_debt_paid_syria_lbl,B,1,0.784248
+s7c_1_cond_host_worse_lbl,A,0,0.488255
+s7c_1_cond_host_worse_lbl,B,1,0.511745
+s7c_1_cond_housing_access_lbl,A,0,0.923918
+s7c_1_cond_housing_access_lbl,B,1,0.076082
+s7c_1_cond_livelihood_opps_lbl,A,0,0.088092
+s7c_1_cond_livelihood_opps_lbl,B,1,0.911908
+s7c_1_cond_other,A,0,0.91139
+s7c_1_cond_other,B,1,0.08861
+s7c_1_cond_reentry_possible_lbl,A,0,0.243646
+s7c_1_cond_reentry_possible_lbl,B,1,0.756354
+s7c_1_cond_safety_improved_lbl,A,0,0.112467
+s7c_1_cond_safety_improved_lbl,B,1,0.887533
+s7c_1_cond_special_services_lbl,A,0,0.880381
+s7c_1_cond_special_services_lbl,B,1,0.119619
+s7c_1_cond_sufficient_resources_lbl,A,0,0.520653
+s7c_1_cond_sufficient_resources_lbl,B,1,0.479347

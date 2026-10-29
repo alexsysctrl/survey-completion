@@ -1,0 +1,55 @@
+item,letter,option,p
+Q06,A,"Yes, it matters what my religious leaders believe about the COVID-19 vaccine and if they support it",0.641943
+Q06,B,"No, it does not matter to me what my religious leaders believe about the COVID-19 vaccine",0.263007
+Q06,C,Not sure,0.090486
+Q06,D,Prefer not to answer,0.003738
+Q06,E,No response,0.000826
+Q07,A,Yes,0.633153
+Q07,B,No,0.064655
+Q07,C,Not sure,0.302192
+Q08,A,Yes,0.844253
+Q08,B,No,0.155747
+Q09,A,Yes,0.959707
+Q09,B,No,0.032958
+Q09,C,Not sure,0.007336
+Q10,A,I am afraid of the potential side effects of the COVID-19 Vaccine,0.000938
+Q10,B,I am not confident that the vaccine will protect me,0.000399
+Q10,C,I do not feel at risk of catching COVID-19,0.000361
+Q10,D,It's not that serious. If I catch COVID-19 I can recover without vaccine,0.000261
+Q10,E,I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19,0.995988
+Q10,F,Goes against my religious belief,0.001785
+Q10,G,Other,0.000268
+Q11,A,Health worker,6.9e-05
+Q11,B,Religious leader,0.9996
+Q11,C,Family member,0.000242
+Q11,D,Peer/friend,5.8e-05
+Q11,E,Other,3.1e-05
+Q12,A,Clear information on vaccine safety and side effects,0.002821
+Q12,B,Strong recommendation from the persons I trust most,0.481515
+Q12,C,Seeing religious leaders lead by example through taking the vaccine publicly,0.469462
+Q12,D,Public statements by influential persons,0.016709
+Q12,E,Government guidance,0.008387
+Q12,F,Social media or traditional media,0.003317
+Q12,G,Doing my part to protect my community,0.008761
+Q12,H,Other,0.009028
+Q14,A,Very Important,0.264214
+Q14,B,Somehow Important,0.727616
+Q14,C,Not at all important,0.007333
+Q14,D,Not sure,0.000837
+Q15,A,Health worker,0.000433
+Q15,B,Religious leader,0.988063
+Q15,C,Family member,0.010765
+Q15,D,Peer/Friend,0.000603
+Q15,E,Other,0.000136
+Q16,A,Yes,0.96854
+Q16,B,No,0.029393
+Q16,C,Not sure,0.002068
+Q17,A,Yes,0.019483
+Q17,B,No,0.011013
+Q17,C,Only some religious leaders support vaccination for children,0.939477
+Q17,D,Not sure,0.029044
+Q17,E,No response,0.000984
+Q18,A,Encourages child vaccination,0.026103
+Q18,B,Discourages child vaccination,0.036815
+Q18,C,Does not affect decision for child vaccination,0.89976
+Q18,D,Not sure,0.037322
